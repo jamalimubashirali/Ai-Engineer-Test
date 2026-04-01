@@ -1,0 +1,275 @@
+================================================================================
+AGENCY CASE STUDY — PROJECT NEON
+Advertising Campaign: Energy Drink Launch (Gen-Z Gaming Segment)
+================================================================================
+
+CLIENT OVERVIEW
+Client:           Velocity Beverages Inc.
+Product:          NEON — Sugar-Free Energy Drink, Citrus Surge & Arctic Mint flavours
+Campaign Name:    Project Neon
+Campaign Period:  Q1 2025 (January 6 – February 28)
+Markets:          United States, Canada, United Kingdom, Australia
+Agency:           Meridian Creative Group (MCG)
+Accountable Lead: Jordan Takahashi, Senior Strategy Director
+Media Budget:     $1,800,000 (across all markets and channels)
+
+================================================================================
+SECTION 1 — STRATEGIC BRIEF
+================================================================================
+
+1.1 THE CHALLENGE
+Velocity Beverages became the fourth-largest US energy drink manufacturer in 2023
+through aggressive grocery distribution, but their flagship product, NEON, had
+failed to gain significant traction in the 16–24 demographic. Despite strong
+retail presence (available in 22,000 stores nationwide), brand awareness among
+Gen-Z was just 11% versus a category average of 38% for leading competitors.
+
+The primary issue identified in qualitative research: Gen-Z consumers, especially
+within the gaming and esports community, view traditional energy drink advertising
+(stadium sponsorships, extreme sports athlete endorsements, banner ads) as
+inauthentic — associated with brands targeting a previous generation. They had a
+collective blind spot to NEON's existing marketing.
+
+A secondary issue was distribution awareness: 67% of Gen-Z gamers in the study
+who consumed energy drinks did not know NEON was available at the convenience
+stores and gas stations they already frequented.
+
+1.2 CAMPAIGN OBJECTIVES
+PRIMARY (Awareness):
+  - Increase unaided brand awareness among Gen-Z (16–24) from 11% to 25% in
+    core markets within 8 weeks.
+  - Generate a minimum of 1.5 million organic social impressions (not paid reach),
+    particularly on TikTok and Twitter/X.
+
+SECONDARY (Trial):
+  - Drive 50,000 new trial sign-ups through a dedicated campaign landing page:
+    neondrink.com/challenge
+  - Distribute 75,000 physical product samples via partnership touchpoints.
+
+TERTIARY (Conversion & Retention):
+  - Achieve a 22% repeat purchase rate among first-time buyers within 60 days of
+    initial trial.
+  - Collect a minimum of 30,000 email/SMS opt-ins for post-campaign nurture sequences.
+
+1.3 TARGET AUDIENCE DEFINITION
+Core Segment: Competitive and social gamers, aged 16–24, primarily male (68%),
+mixed female and non-binary (32%). Heavy users of platforms: Twitch, Discord, 
+TikTok, YouTube, Reddit (r/gaming, r/FortNite, r/leagueoflegends, r/CompetitiveOW).
+
+Behavioral Traits:
+- Average gaming session: 3.2 hours on weekdays, 5.8 hours on weekends.
+- 74% consume energy drinks regularly; 31% drink 3+ cans per week during gaming.
+- Highly resistant to traditional advertising but engage deeply with branded gaming
+  integrations, in-universe rewards, and content creator partnerships they trust.
+- Purchase decisions are peer-validated: 82% check Twitch chat, Discord servers, 
+  or Reddit before trying a new energy drink.
+- Discovery pathway: Creator recommendation → peer validation → purchase.
+
+1.4 COMPETITIVE LANDSCAPE AT CAMPAIGN START
+- Monster Energy: 41% Gen-Z awareness. Heavy esports sponsorship (LCS, CS:GO).
+- G FUEL: 34% awareness. YouTube creator culture native. Perceived as "authentic."
+- Celsius: 29% awareness. Fitness-adjacent positioning. Strong female skew.
+- Reign: 18% awareness. Performance-focused. Limited organic social traction.
+- NEON: 11% awareness. No established gaming/creator community foothold.
+
+Key Competitive Insight: G FUEL's dominance came from becoming a channel partner,
+not an advertiser — they provided product to creators first, built loyalty, then
+scaled. NEON needed a fast-tracked version of this playbook.
+
+================================================================================
+SECTION 2 — CREATIVE STRATEGY
+================================================================================
+
+2.1 CORE INSIGHT
+"Gamers are the most ad-literate audience on earth — they skip pre-rolls in 5 
+seconds, they install ad blockers, and they mock brands in their Discord servers.
+The only advertising that works is advertising that doesn't look like advertising."
+
+The creative territory we named: "Play Inside the Game."
+
+Rather than advertising around gaming culture, Meridian proposed that NEON enter
+gaming culture directly by becoming a functional element of a game that the 
+audience was already playing.
+
+2.2 THE NEON CHALLENGE — CONCEPT
+Working with the Fortnite Creative team and Epic Games' brand partnership division,
+Meridian developed a custom Fortnite Creative map called "The NEON Grid." The map
+was a 20-minute, parkour-style obstacle course set in a neon-lit cyberpunk city
+environment that visually mirrored the NEON brand aesthetic (cyan, black, electric
+green color palette).
+
+Hidden throughout the map's architecture (inside glowing vending machines, behind
+breakable walls, embedded in environmental signage) were 12 unique QR-linked
+discount codes that unlocked:
+- 30% off a NEON 12-pack on the Velocity direct-to-consumer store
+- Exclusive "NEON Gamer" digital avatar skin available in the Fortnite item shop
+- Entry into a weekly prize draw ($500 gaming peripherals bundle)
+
+The codes were intentionally hidden at varying difficulty levels: 3 easy (early 
+course), 5 medium (mid-course), 4 hard (end-game area). This mechanic rewarded 
+exploration and skill, generating significant speedrun and "code hunting" content.
+
+2.3 THE CREATOR LAYER — MICRO-INFLUENCER STRATEGY
+To seed organic discovery without it appearing orchestrated, the campaign worked
+with 18 Twitch streamers (average audience: 8,000–45,000 concurrent viewers each)
+— deliberately avoiding top-tier influencers (1M+ followers) whose audience had
+become desensitized to brand deals.
+
+The creator brief was unconventional: no scripted talking points, no brand reads,
+no product placement requirements. Creators were simply given early access to the
+map and invited to stream it. The creative team predicted that:
+1. The map's visual quality would generate genuine interest.
+2. The code-hunting mechanic would create natural suspense and viewer participation.
+3. Organic chat engagement would amplify across Discord and Reddit without any
+   paid distribution.
+
+All creators disclosed the partnership per FTC guidelines (#Ad in stream title).
+Despite full disclosure, audience reception was universally positive — the gameplay
+experience was considered the dominant story, not the brand deal.
+
+2.4 THE CHALLENGE LANDING PAGE
+neondrink.com/challenge served as the conversion hub. It featured:
+- A live leaderboard showing the top 100 speedrun times on The NEON Grid
+- A "code redeemer" portal tied directly to Velocity's Shopify store
+- A sample request form (physical product to US door; digital coupon EMEA/AUS)
+- Social sharing mechanics: instant Twitter/X and TikTok share templates
+- Email/SMS opt-in gated behind an early-access code reveal (one code emailed
+  immediately on opt-in)
+
+================================================================================
+SECTION 3 — MEDIA EXECUTION PLAN
+================================================================================
+
+3.1 CHANNEL ALLOCATION
+Total Budget: $1,800,000 USD
+
+┌──────────────────────────────────┬────────────┬───────────────────────────────┐
+│ CHANNEL                          │ BUDGET     │ PRIMARY PURPOSE               │
+├──────────────────────────────────┼────────────┼───────────────────────────────┤
+│ Fortnite Creative Map Development│ $380,000   │ Core campaign asset creation  │
+│ Creator Partnership Fees (18)    │ $340,000   │ Organic seeding & amplification│
+│ Physical Product Sampling        │ $210,000   │ Physical trial at gaming events│
+│ Paid TikTok (Spark Ads)          │ $190,000   │ Amplify top organic content   │
+│ Paid Reddit (r/gaming targeting) │ $145,000   │ Conversion & awareness        │
+│ Discord Server Takeovers (6)     │ $120,000   │ Community penetration         │
+│ Campaign Landing Page Dev & CRM  │ $110,000   │ Conversion infrastructure     │
+│ PR + Earned Media Seeding        │ $75,000    │ Gaming press, news articles   │
+│ Contingency Reserve              │ $230,000   │ Performance-based reallocation│
+└──────────────────────────────────┴────────────┴───────────────────────────────┘
+
+3.2 LAUNCH TIMELINE
+Week 0 (Dec 23 – Jan 5):  Creator briefing & NDA signing. Map final QA.
+                           Influencer product seeding (product delivered).
+Week 1 (Jan 6):           NEON Grid map goes live in Fortnite Creative.
+                           Creators stream simultaneously. Reddit/TikTok posts live.
+Week 2–3 (Jan 13–24):     Paid TikTok Spark Ads activated on top-performing organic.
+                           First wave of weekly prize draw winners announced.
+Week 4–6 (Jan 27–Feb 14): Mid-campaign performance review. Budget reallocation
+                           from underperforming channels to TikTok (as per plan).
+                           Valentine's Day limited edition "Duo Challenge" variant
+                           added to the map. PR push to gaming media.
+Week 7–8 (Feb 15–28):     Final code hunt. Leaderboard prize announcement.
+                           Post-campaign data collection. Creator debrief sessions.
+
+================================================================================
+SECTION 4 — RESULTS & PERFORMANCE ANALYSIS
+================================================================================
+
+4.1 AWARENESS METRICS
+
+Unaided Brand Awareness (Gen-Z, 16–24) at Campaign End:
+- Pre-campaign baseline: 11%
+- Target: 25%
+- Achieved: 34% — exceeded target by +9 percentage points.
+
+Aided Brand Awareness: 61% (from a pre-campaign baseline of 28%).
+
+Social Listening — Organic Mentions (Jan 6 – Feb 28):
+- TikTok: 4.1 million organic impressions (vs. 1.5M target — 173% over target)
+- Twitter/X: 890,000 organic impressions
+- Reddit Organic Thread Engagement: 1.2 million impressions across 3 viral threads
+- YouTube (non-sponsored clip compilations): 2.7 million views
+- Total Earned Organic Reach: 9.0 million impressions
+
+Key organic moment: A 47-second TikTok clip of a speedrunner discovering the
+hardest code in under 90 seconds was reposted by 14 major gaming accounts and
+reached 3.2 million views organically within 72 hours of posting.
+
+4.2 TRIAL & CONVERSION METRICS
+Campaign Landing Page Unique Visitors:         284,000 
+Trial Sign-ups / Sample Requests:             127,400  (target: 50,000 — +154%)
+Discount Code Redemptions:                    41,200
+Email/SMS Opt-ins Collected:                  88,000   (target: 30,000 — +193%)
+Physical Samples Distributed:                  75,000  (exactly on target)
+DTC Units Sold (attributed to campaign):       22,800
+
+Repeat Purchase Rate (60-day tracking):        29%     (target: 22% — exceeded)
+
+4.3 CAMPAIGN EFFICIENCY METRICS
+Total Media Budget Spent:                    $1,570,000 (underspent by $230,000)
+Total Attributable DTC Revenue Generated:    $512,000
+Estimated Retail Revenue Lift (tracked via
+Nielsen scanner data, 8-week window):       $1,940,000
+Total Attributable Revenue:                 $2,452,000
+Campaign ROAS (Return on Ad Spend):            1.56x direct; 3.2x blended estimate
+
+Cost-Per-Aware-Consumer (new awareness):       $0.72
+Cost Per Trial Sign-up:                        $12.31
+Industry Benchmark (comparable CPG launches): $27.40
+Efficiency vs. Benchmark:                      -55% cost (2.2× more efficient)
+
+================================================================================
+SECTION 5 — KEY LEARNINGS & RECOMMENDATIONS
+================================================================================
+
+5.1 WHAT WORKED
+L1: NATIVE GAME INTEGRATION > INTERSTITIAL ADVERTISING
+    The single most effective element was that the campaign's primary touchpoint
+    was inside a game — not alongside or between gaming content. The NEON Grid map
+    was covered by gaming journalists as a culture story, not a brand story. This
+    is the key editorial distinction that earned media would not have made if the
+    campaign had been traditional.
+
+L2: MID-TIER CREATORS OUTPERFORM MEGA-INFLUENCERS FOR THIS SEGMENT
+    The 18 creators with 8K–45K average concurrent viewers generated significantly
+    higher engagement rates (avg. 11.4%) than benchmarks for top-tier creators in
+    the energy drink category (avg. 2.8%). Authenticity of the endorsement was the
+    primary driver, per post-campaign creator audience surveys.
+
+L3: MECHANIC-DRIVEN VIRALITY IS UNPREDICTABLE BUT STRUCTURED
+    The code-hunting mechanic created competitive social sharing that Meridian did
+    not have to orchestrate. However, the Duo Challenge Valentine's variant added
+    in Week 6 produced almost no incremental results, suggesting that organic
+    mechanics deliver their highest value in the initial discovery phase.
+
+5.2 WHAT TO IMPROVE
+L4: CONVERSION FLOW FRICTION
+    Of the 284,000 landing page visitors, only 127,400 completed the trial form
+    (~45% completion rate). Exit survey data suggests the phone number requirement
+    in the opt-in form caused 30% of abandonment. Recommendation: Make phone 
+    optional; email-only reduces friction and projected to increase completions
+    by 18–22%.
+
+L5: RETAIL LIFT MEASUREMENT GAPS
+    The Nielsen scanner data attribution window (8 weeks) was not long enough to
+    capture downstream repeat purchasing driven by the campaign. Future campaigns
+    should negotiate a 16-week attribution window with retail partners.
+
+5.3 RECOMMENDED NEXT STEPS FOR VELOCITY BEVERAGES
+1. Activate the 88,000 email/SMS opt-in list with a 4-email nurture sequence
+   focused on flavor launch news and an exclusive subscriber-only discount.
+2. Commission a follow-up Fortnite Creative map (Season 2 of "The NEON Grid")
+   to maintain in-platform presence with the acquired audience.
+3. Formalise the 18 creator partnerships into an ongoing ambassador program,
+   leveraging their authentic relationship before it erodes.
+4. Invest in longitudinal brand tracker (quarterly) to measure awareness decay
+   curve following campaign end.
+
+================================================================================
+PREPARED BY: Jordan Takahashi, Senior Strategy Director
+             Aisha Okonkwo, Head of Digital Media
+             Ben Larsson, Creative Director
+REVIEWED BY: Meridian Creative Group Executive Committee
+DATE: March 14, 2025
+CLASSIFICATION: CONFIDENTIAL — CLIENT USE ONLY
+================================================================================

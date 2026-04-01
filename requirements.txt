@@ -1,0 +1,23 @@
+# Core API & Servers
+FastAPI>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+streamlit>=1.32.0
+
+# LLMs & Integration
+openai>=1.14.0
+langchain>=0.1.13
+langchain-core>=0.1.50
+langchain-openai>=0.1.1
+langchain-community>=0.0.29
+langchain-huggingface>=0.0.1
+langchain-text-splitters>=0.0.1
+
+# RAG & ML Local Features
+chromadb>=0.4.24
+sentence-transformers>=2.6.1
+PyMuPDF>=1.24.0
+
+# Utilities
+pydantic>=2.6.4
+python-dotenv>=1.0.1

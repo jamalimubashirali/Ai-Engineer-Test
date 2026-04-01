@@ -1,0 +1,263 @@
+SOLSTICE FOOTWEAR
+GLOBAL BRAND VOICE & TONE GUIDELINES
+Document Version: 3.2
+Effective Date: January 1, 2025
+Prepared by: Brand Strategy Team, Solstice Footwear HQ, Portland, OR
+Classification: Internal + Agency Partners
+
+================================================================================
+SECTION 1 — BRAND FOUNDATION
+================================================================================
+
+1.1 COMPANY OVERVIEW
+Solstice Footwear was founded in 2019 by twin sisters Maya and Priya Nair, both
+former competitive marathon runners who became frustrated by the wasteful practices
+of the footwear industry. The company manufactures athletic and lifestyle footwear
+using exclusively next-generation earth-engineered materials: algae foam midsoles,
+recycled ocean plastic uppers, and natural rubber outsoles harvested from sustainably
+managed forests in Costa Rica.
+
+Headquartered in Portland, Oregon, with design studios in Amsterdam and Seoul, 
+Solstice Footwear ships to 42 countries and recorded $74 million in revenue in 2024, 
+representing 210% year-over-year growth.
+
+The brand's north star is simple: Prove that you do not have to choose between 
+high performance and a zero-footprint lifestyle.
+
+1.2 MISSION STATEMENT
+"To engineer the future of human motion — without borrowing from the planet."
+
+1.3 CORE VALUES
+1. Performance Without Compromise
+   Every Solstice product must meet or exceed the performance benchmarks of the
+   leading non-sustainable competitor in its category. Sustainability is a bonus,
+   never an excuse for lower quality.
+
+2. Radical Transparency
+   Our manufacturing partners, material sources, carbon calculations, and factory
+   audit scores are published quarterly on our website. If we make a mistake, we say
+   so publicly. We never greenwash.
+
+3. Urban Optimism
+   We are not a brand that lectures people about the planet. We are a brand that
+   makes people excited about the future. Our communication style always leans
+   forward, not inward.
+
+4. Community Before Marketing
+   We grow through athletes, artists, and everyday movers who genuinely love the
+   product — not through paid placements that feel transactional.
+
+================================================================================
+SECTION 2 — TARGET AUDIENCE PROFILES
+================================================================================
+
+2.1 PRIMARY PERSONA — "The Urban Athlete"
+Demographics:
+- Age: 22–35
+- Location: Metropolitan cities (NYC, LA, London, Seoul, Berlin, Sydney)
+- Income: $45,000–$110,000 annually
+- Education: Bachelor's or postgraduate degree
+- Occupation: Tech, creative industries, healthcare, finance
+
+Psychographics:
+- Runs 2–5 times per week, but also wears performance gear to brunch — lifestyle
+  and athletics are not separate categories for them.
+- Considers sustainability when making purchases, but will not sacrifice quality.
+  They have been burned by "eco" products that fell apart after 6 months.
+- Highly visual. Follows athletes, designers, and architects on social media.
+  Responds to editorial photography more than product-flat imagery.
+- Price-sensitive but not cheap. Will spend $110–$145 on shoes if they believe
+  the product will outlast and outperform a $80 mass-market alternative.
+- Influences their friend group. If they love a brand, their network hears about it.
+
+Key Insight: This persona does not think of sustainable buying as an act of 
+sacrifice — they think of it as the smarter upgrade.
+
+2.2 SECONDARY PERSONA — "The Conscious Parent"
+Demographics:
+- Age: 30–45
+- Location: Suburban areas adjacent to major metros (Brooklyn, Silver Lake,
+  Hackney, Mitte)
+- Income: $80,000–$180,000 (household)
+- Occupation: Mixed; often a dual-income household
+
+Psychographics:
+- Buying for themselves AND their children. Values durability, safety of materials,
+  and non-toxic manufacturing.
+- More likely to research a brand before purchasing. Checks third-party reviews,
+  B-Corp certifications, and manufacturing transparency.
+- Will pay a premium, but wants the story to feel genuine, not performative.
+
+2.3 TERTIARY PERSONA — "The Competitive Runner"
+Demographics:
+- Age: 28–50
+- Runs 30+ miles per week; participates in organized races (5Ks to marathons)
+
+Psychographics:
+- Deeply skeptical of sustainable footwear. Their past experience is that "green"
+  shoes compromise on cushioning, energy return, or durability.
+- Responds almost exclusively to data: lab test results, heel-to-toe drop specs,
+  carbon fiber plate comparisons, and testimonials from elite athletes.
+- Needs to see performance FIRST. Sustainability is a bonus, not a selling point.
+
+================================================================================
+SECTION 3 — TONE OF VOICE PRINCIPLES
+================================================================================
+
+3.1 FOUR CORE TONAL ATTRIBUTES
+
+ATTRIBUTE 1: OPTIMISTIC BUT GROUNDED
+What it means: We believe humanity can solve its biggest problems through 
+innovation, not restriction. Our tone is hopeful without being naive.
+
+DO write: "Every mile you run in AeroLeaf plants the seed of a better track."
+DON'T write: "The planet is in crisis and every shoe purchase matters."
+
+Why: Our audience is already aware of environmental issues. Lecturing them creates
+fatigue and positions Solstice as preachy. Inspiration converts better than guilt.
+
+---
+ATTRIBUTE 2: PERFORMANCE-DRIVEN ALWAYS
+What it means: Athletic performance is our first sentence, not our footnote.
+Sustainability is always framed as an advantage, never a trade-off.
+
+DO write: "0.4 oz lighter than the industry standard. Made from ocean plastic."
+DON'T write: "Ocean plastic uppers — light enough to get you to the finish line."
+
+Why: The reversed construction (sustainability first, performance second) signals
+to performance-oriented audiences that we are an eco brand that happens to make 
+shoes. The correct order signals we are an athletic brand that happens to be 
+responsible.
+
+---
+ATTRIBUTE 3: PUNCHY AND DIRECT
+What it means: Short sentences. Active voice. Strong verbs. Remove every word that
+doesn't earn its place on the page.
+
+DO write: "Run further. Land lighter. Leave nothing behind."
+DON'T write: "Our innovative approach to footwear design aims to enable athletes 
+to maximize their performance while simultaneously minimizing their environmental 
+impact."
+
+Ideal sentence length: 8–14 words for headlines, 15–25 words for body copy.
+Paragraphs in long-form copy should not exceed 4 sentences.
+
+---
+ATTRIBUTE 4: CREDIBLE AND SPECIFIC
+What it means: Vague sustainability claims destroy trust. Every claim we make
+must be backed by a verifiable source. When possible, use numbers.
+
+DO write: "Our algae foam midsole absorbs 42% more impact energy than EVA foam."
+DON'T write: "Our specially formulated midsole provides superior cushioning."
+
+DO write: "Certified carbon neutral since 2022. Verified by Carbon Trust."
+DON'T write: "We care deeply about our carbon footprint."
+
+3.2 VOCABULARY STANDARDS
+
+BANNED WORDS AND APPROVED ALTERNATIVES:
+┌─────────────────────┬────────────────────────────────────────────────┐
+│ BANNED WORD/PHRASE  │ APPROVED ALTERNATIVE                           │
+├─────────────────────┼────────────────────────────────────────────────┤
+│ Recycling           │ Rebirth / Re-engineered / Next-gen materials   │
+│ Eco-friendly        │ Zero-footprint / Earth-engineered              │
+│ Cheap               │ Accessible / Fairly priced                     │
+│ Sustainable (alone) │ Responsibly engineered / Certified zero-waste  │
+│ Green (as adjective)│ Specific material name (algae foam, ocean nylon)│
+│ Feel-good           │ Delete — sounds patronizing                    │
+│ Save the planet     │ Delete — sounds hyperbolic                     │
+│ Carbon neutral-ish  │ Never use hedged environmental claims          │
+│ Natural             │ Specify: algae-derived, plant-based, rubber    │
+│ Clean               │ Specify: non-toxic, PFAS-free, dye-free        │
+└─────────────────────┴────────────────────────────────────────────────┘
+
+3.3 CHANNEL-SPECIFIC TONE CALIBRATION
+
+INSTAGRAM / TIKTOK
+Tone dial: 90% Punchy, 10% Grounded
+Characteristics: Hook in line 1. Lead with emotion or velocity. Hashtags always.
+Visual pairing: High-contrast editorial photography. Urban environments. Motion blur.
+Caption length: 80–150 words maximum.
+NEVER: Horizontal product shots on white backgrounds. Clip-art earth icons.
+
+PAID SEARCH / GOOGLE ADS
+Tone dial: 100% Performance-Driven + Specific
+Characteristics: Headline must contain a quantifiable benefit or specific model name.
+Ad copy must answer the question the user is likely asking.
+Example headline: "AeroLeaf Pro — 0.4 oz Lighter Than Competitor X | Ships Free"
+
+EMAIL MARKETING
+Tone dial: 60% Grounded, 40% Optimistic
+Characteristics: Subject line acts as a headline ad. Personalised where possible.
+Pre-header text must reinforce, not repeat, the subject line.
+Ideal email copy word count: 120–200 words for promotional, 300–500 for editorial.
+
+OUT-OF-HOME (BILLBOARD / TRANSIT)
+Tone dial: 100% Punchy
+Max word count: 7 words for primary headline.
+Subline: Optional, max 12 words.
+Example: "Run the city. Leave nothing behind." / Solstice.
+
+================================================================================
+SECTION 4 — VISUAL IDENTITY INTEGRATION WITH COPY
+================================================================================
+
+4.1 TYPOGRAPHY PAIRING WITH TONE
+Our primary typeface, Suisse Int'l (condensed weights for headlines, regular for body)
+carries the brand's precision-engineering aesthetic. All agency partners must request
+licensed font files from brand@solsticefootwear.com before production.
+
+Copy set in headline weight should never exceed 40 characters per line for maximum
+legibility in all media sizes.
+
+4.2 COLOR PALETTE AND COPY MOOD ALIGNMENT
+PRIMARY PALETTE:
+- Carbon Black (#0D0D0D): Used for authority, performance messaging
+- Bone White (#F5F0E8): Used for minimal, editorial layouts
+- Electric Algae (#00D46A): Used sparingly (max 20% of any composition) for call-
+  outs and emphasis only. Never flood a layout with this color — it becomes cliché.
+
+SECONDARY (Seasonal Drops Only):
+- Void Blue (#0A1628): Winter/fall collection messaging
+- Solar Sand (#D4A853): Summer/limited edition messaging
+
+4.3 PHOTOGRAPHY STYLE DO'S AND DON'TS
+DO: Motion imagery. Gritty urban environments. Athletes mid-stride. 
+    Real people, not just models. Close-ups of material texture.
+    Environmental portraits that show context without tokenism.
+
+DON'T: Generic green fields. Hands holding soil. Single floating leaves. 
+        Overly processed skin. Studio-only shots as hero imagery.
+        Stock photos. Posed lifestyle shots that look "stock-like."
+
+================================================================================
+SECTION 5 — LEGAL AND COMPLIANCE STANDARDS
+================================================================================
+
+5.1 ENVIRONMENTAL CLAIMS COMPLIANCE
+All environmental claims made in advertising must comply with the FTC Green Guides
+(16 CFR Part 260) in the United States and the EU Green Claims Directive 2024.
+Specifically:
+- All "carbon neutral" claims must reference the third-party verification body.
+- "Zero waste" manufacturing claims must specify scope (Scope 1, 2, or 3 emissions).
+- "Ocean plastic" claims must name the supply chain partner and collection region.
+Failure to comply will result in immediate takedown of the asset and escalation to
+legal review.
+
+5.2 ATHLETE PARTNERSHIP DISCLOSURE
+All influencer and athlete partner posts must include #Ad or #Gifted disclosures per
+FTC regulations. Solstice brand ambassadors are provided with a disclosure toolkit
+at onboarding. Non-compliant posts must be taken down within 2 hours of discovery.
+
+5.3 CLAIMS THAT REQUIRE PRE-APPROVAL
+The following copy types must be reviewed by the Solstice Legal Team BEFORE any
+agency delivers final assets:
+- Any comparison to a named competitor (e.g., "lighter than Nike Pegasus")
+- Any clinical or health-related performance claims
+- Any numerical carbon/environmental statistics not sourced from our internal ESG report
+
+================================================================================
+DOCUMENT OWNER: Brand Strategy, Solstice Footwear
+NEXT REVIEW DATE: July 1, 2025
+DISTRIBUTION: Internal Teams + Approved Agency Partners Only
+================================================================================
