@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
 
 from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.vectorstores import VectorStoreRetriever
 
@@ -52,7 +52,7 @@ def build_retriever(docs_dir: str = "documents", k: int = 3) -> VectorStoreRetri
     chunks = splitter.split_documents(raw_docs)
 
     # Use HuggingFace locally — zero API cost. Model is read from Env so it's overridable.
-    embeddings = HuggingFaceEmbeddings(model_name=Env.EMBEDDING_MODEL)
+    embeddings = SentenceTransformerEmbeddings(model_name=Env.EMBEDDING_MODEL)
     vectorstore = Chroma.from_documents(chunks, embeddings)
 
     return vectorstore.as_retriever(search_kwargs={"k": k})

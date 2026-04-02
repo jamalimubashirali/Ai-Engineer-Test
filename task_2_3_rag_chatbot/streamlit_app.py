@@ -29,19 +29,18 @@ st.markdown(
 #  Initialize Backend (Cached)                                       #
 # ------------------------------------------------------------------ #
 @st.cache_resource
-def get_rag_chain():
-    """Build the retriever and chain once, and cache it for the session."""
+def get_retriever():
+    """Build and cache the heavy retriever once for the session."""
     try:
         # Validate Env before heavy loading
         Env.validate()
-        retriever = build_retriever(docs_dir="documents")
-        chain = build_rag_chain(retriever)
-        return chain
+        return build_retriever(docs_dir="documents")
     except Exception as e:
-        st.error(f"Failed to initialize RAG: {e}")
+        st.error(f"Failed to initialize Vector Store: {e}")
         return None
 
-chain = get_rag_chain()
+retriever = get_retriever()
+chain = build_rag_chain(retriever) if retriever else None
 
 # ------------------------------------------------------------------ #
 #  Session State for Chat History                                    #
