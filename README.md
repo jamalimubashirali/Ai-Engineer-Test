@@ -27,7 +27,7 @@ To ensure reviewers can run this project locally with zero API costs, all defaul
 
 - **Chat/Text:** `meta-llama/llama-3.3-70b-instruct:free`
 - **Vision:** `nvidia/nemotron-nano-12b-v2-vl:free`
-- **Embeddings (RAG):** `all-MiniLM-L6-v2` (Running entirely locally via `langchain_huggingface` — zero cost).
+- **Embeddings (RAG):** `all-MiniLM-L6-v2` (Running entirely locally via `sentence-transformers` — zero cost).
 
 ---
 
@@ -100,7 +100,7 @@ Includes both a **CLI script** and a **Streamlit Web Dashboard**.
 
 ```bash
 cd task_2_3_rag_chatbot
-python -m streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ### Section 3 — Speed Tasks
